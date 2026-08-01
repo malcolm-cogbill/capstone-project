@@ -1,4 +1,4 @@
-# Project Info
+# Project Information
 
 Hoplite Tactics Online is a two player real-time strategy game. Click 'Play Hoplite Challenge' to start a game against AI opponents, and compete with other players for a top position on the Leaderboard. Online PvP will be added at a later date. Future updates and development plans will be posted to the 'Dev Log' page.
 
